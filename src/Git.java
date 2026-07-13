@@ -13,4 +13,7 @@ public class Git {
     public void soert(){
         System.out.println("Sort");
     }
+    public   void getAll(){
+        System.out.println("Get all");
+    }
 }
