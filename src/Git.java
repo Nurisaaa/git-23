@@ -9,4 +9,8 @@ public class Git {
     public void signUp(){
         System.out.println("sign up");
     }
+
+    public String getGitById(int id){
+        return "get";
+    }
 }
