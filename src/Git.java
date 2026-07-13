@@ -9,4 +9,8 @@ public class Git {
     public void signUp(){
         System.out.println("sign up");
     }
+
+    public   void getAll(){
+        System.out.println("Get all");
+    }
 }
