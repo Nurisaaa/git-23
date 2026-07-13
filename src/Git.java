@@ -15,4 +15,11 @@ public class Git {
         System.out.println("delat");
         return "+++++";
     }
+
+    public void soert(){
+        System.out.println("Sort");
+    }
+    public   void getAll(){
+        System.out.println("Get all");
+    }
 }
