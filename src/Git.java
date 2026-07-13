@@ -5,4 +5,8 @@ public class Git {
     public Git(String name) {
         this.name = name;
     }
+
+    public void signUp(){
+        System.out.println("sign up");
+    }
 }
