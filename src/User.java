@@ -3,4 +3,7 @@ public  void update(){}
     public void deleteMethod(){
 
     }
+    public void getMethod(){
+
+    }
 }
